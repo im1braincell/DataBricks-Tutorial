@@ -1,3 +1,7 @@
+# Announce!!!
+หลังจากจบงานสัปดาห์ที่แล้ว ก็ป่วยเนื่องจากอากาศเปลี่ยนค่ะ TwT ปรับร่างไม่ทันเลยป่วยรับปีใหม่เลย ยังไม่หายนะคะ ตอนนี้อาการดีขึ้นแล้ว สามารถมาที่คณะได้แล้ว จะเร่งทำทุกอย่างที่เหลือให้หมดภายใน 20 ม.ค. 2026 นี้ค่ะ
+กราบขออภัยจากใจจริงค่ะ
+
 # About This Repository
 
 The tutorials and code in this repository are based on the official Databricks documentation.
