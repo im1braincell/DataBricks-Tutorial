@@ -1,3 +1,6 @@
+# Announce
+จำวันผิดค่ะ คิดว่าหัวข้อสุดท้ายคือภายในวันที่ 20 แต่เป็นวันที่ 22 ม.ค. จะทำให้เสร็จสิ้นภายในวันที่ดังกล่าวค่ะ
+
 # About This Repository
 
 The tutorials and code in this repository are based on the official Databricks documentation.
