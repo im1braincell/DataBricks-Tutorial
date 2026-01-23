@@ -14,7 +14,7 @@ This repository was created for educational purposes and is intended to support 
 
 | Topic | Databricks Doc | Code / File / Link |
 |-------|----------------|----------------------|
-| Intro | [Get Started](https://docs.databricks.com/aws/en/getting-started/) | [Intro](/00_Intro/Intro to databricks.pdf) |
+| Intro | [Get Started](https://docs.databricks.com/aws/en/getting-started/) | [Intro](/00_Intro/Intro_to_databricks.pdf) |
 | Catalog, Schema, View, Volume | [Database objects](https://docs.databricks.com/aws/en/database-objects/) | [Catalog, Schema, View, Volume](https://docs.google.com/document/d/1T4n9tHSEDDqEBQHY-HFODqjm-LAbUFewgrswFZ0U0GA/edit?usp=sharing) | 
 | Load and transform data using DataFrames | [Load and transform data using Apache Spark DataFrames](https://docs.databricks.com/aws/en/getting-started/dataframes) | [Load and transform data using Apache Spark DataFrames](tutorial-uc-spark-dataframe-python.ipynb) |
 | PySpark Basics | [PySpark basics](https://docs.databricks.com/aws/en/pyspark/basics) | [PySpark basics](pyspark-basics.ipynb) |
