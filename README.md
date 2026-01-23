@@ -9,6 +9,8 @@ This repository was created for educational purposes and is intended to support 
 [รวบรวม Tutorials Databricks - Thai Ver](https://drive.google.com/drive/folders/1qfRcGIai9MHxoXfp2b0dxM3RWU1fGLYO?usp=drive_link) (warning: ภาษาไม่เป็นทางการ)
 
 ### Topics
+* เดี๋ยวมาปรับ path ให้ตรงภายหลังค่ะ*
+
 | Topic | Databricks Doc | Code / File / Link |
 |-------|----------------|----------------------|
 | Intro | [Get Started](https://docs.databricks.com/aws/en/getting-started/) | [Intro](https://docs.google.com/document/d/1LMwqq8E03LgAAWLZ3_kS1w7jLW0IR7Zz0HhZI_hcORU/edit?usp=drive_link) |
